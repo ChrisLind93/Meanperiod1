@@ -1,7 +1,3 @@
-/**
- * Created by butwhole on 29/08/2016.
- */
-
 var names = ['marco','lars','Lind','bo','peter','jan'];
 var filtered = names.filter(checkLength);
 

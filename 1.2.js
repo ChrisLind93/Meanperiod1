@@ -1,7 +1,3 @@
-/**
- * Created by marco on 02-09-2016.
- */
-
 var names = ['marco','lars','Lind','bo','peter','jan'];
 
 function checkLength(name){

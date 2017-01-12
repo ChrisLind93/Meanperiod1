@@ -1,9 +1,6 @@
-/**
- * Created by marco on 04-09-2016.
- */
 console.log("object.1 \n")
 //create a person object
-var person = {gender:"male",name:"Marco",leetness:"1337",Aids:"ofc"}
+var person = {gender:"male",name:"Lind",leetness:"1337",Aids:"ofc"}
 for(var type in person){
     console.log(type+ ": " + person[type]);
 }
@@ -32,4 +29,4 @@ function infoPrint(p){
         console.log(type+ ": " + p[type]);
     }
 }
-infoPrint(createPerson("Marco","Blum",24))
+infoPrint(createPerson("Lind","Lind",23))

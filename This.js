@@ -24,8 +24,8 @@ function f(){
     return this.a;
 }
 
-var g = f.bind({a:"marco er for cool"});
+var g = f.bind({a:"Woop"});
 console.log(g());
 
-var h = g.bind({a:"han burde herre meget få 12"}); // bind only works once! (desværre får han ikke 12 så)
+var h = g.bind({a:"shiiiet"}); // bind only works once!
 console.log(h());

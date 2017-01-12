@@ -1,7 +1,3 @@
-/**
- * Created by marco on 02-09-2016.
- */
-
 var a1 = [1,2,3];
 var a2 = [1,2,3];
 
